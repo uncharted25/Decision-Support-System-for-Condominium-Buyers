@@ -1,0 +1,18 @@
+[30-Mar-2019 18:16:56] NOTICE: fpm is running, pid 16
+[30-Mar-2019 18:16:56] NOTICE: ready to handle connections
+[30-Mar-2019 18:37:12] NOTICE: Terminating ...
+[30-Mar-2019 18:37:12] NOTICE: exiting, bye-bye!
+[31-Mar-2019 09:40:59] NOTICE: fpm is running, pid 50
+[31-Mar-2019 09:40:59] NOTICE: ready to handle connections
+[31-Mar-2019 20:26:24] NOTICE: Terminating ...
+[31-Mar-2019 20:26:24] NOTICE: exiting, bye-bye!
+[02-Apr-2019 08:33:06] NOTICE: fpm is running, pid 89
+[02-Apr-2019 08:33:06] NOTICE: ready to handle connections
+[03-Apr-2019 07:00:24] NOTICE: fpm is running, pid 90
+[03-Apr-2019 07:00:24] NOTICE: ready to handle connections
+[03-Apr-2019 07:01:29] WARNING: [pool www] child 110 exited on signal 15 (SIGTERM) after 64.987591 seconds from start
+[03-Apr-2019 07:01:29] NOTICE: [pool www] child 1142 started
+[03-Apr-2019 07:01:30] NOTICE: Terminating ...
+[03-Apr-2019 07:01:30] NOTICE: exiting, bye-bye!
+[03-Apr-2019 07:21:50] NOTICE: fpm is running, pid 64
+[03-Apr-2019 07:21:50] NOTICE: ready to handle connections
